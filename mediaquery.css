@@ -10,6 +10,14 @@
     .icon{
         display: none;
     }
+
+    .banner{
+        clear: both;
+        height: 750px;
+    }
+    .overlay{
+        margin-bottom: 50px;
+    }
 }
 
 
@@ -19,5 +27,10 @@
     body{
         background-color: black;
     }
+    .banner{
+        clear: both;
+        height: 750px;
+    }
+
     
 }
